@@ -1,7 +1,8 @@
 # SQLMap_Command_Generator_SimpleVersion_CN
 **爱来自kimi。**  
 SQLMap命令生成器（简单版）。  
-更适合东大宝宝的命令生成器。
+**Windows版本。**  
+更适合东大宝宝的命令生成器。  
 在kimi指导下写的简易玩意儿，最大的好处是不用一个一个敲代码。  
 使用前请确保有tkinter库。下载此库，请使用:
 
