@@ -28,6 +28,9 @@ SQLMap命令生成器（简单版）。
 - **kimi**
 - **[SQLmap的使用]https://blog.csdn.net/weixin_52180702/article/details/125506890**
 
+# License
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). You are free to use, modify, and distribute this code, but you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use this code for commercial purposes. If you remix, transform, or build upon this material, you must distribute your contributions under the same license as the original.
 
+[See the full license here: https://creativecommons.org/licenses/by-nc-sa/4.0/]
 
 
