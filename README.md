@@ -27,7 +27,7 @@ SQLMap命令生成器（简单版）。
 # 致谢：
 - **kimi**
 - **Deepseek**
-- **[SQLmap的使用]https://blog.csdn.net/weixin_52180702/article/details/125506890**
+- **[SQLmap的使用](https://blog.csdn.net/weixin_52180702/article/details/125506890)**
 
 
 # License
