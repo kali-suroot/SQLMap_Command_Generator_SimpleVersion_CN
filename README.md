@@ -1,5 +1,5 @@
 # SQLMap_Command_Generator_SimpleVersion_CN
-**爱来自kimi。**  
+**爱来自kimi,Deepseek**  
 SQLMap命令生成器（简单版）。  
 **Windows版本。**  
 用Linux也不是不可以.......  
@@ -10,7 +10,7 @@ SQLMap命令生成器（简单版）。
     pip install tkinter  
     
 所以，有什么问题建议用kimi解决，当然，你自己也可以把它变得更好。  
-左边大框可以粘贴爆破出来的数据库，右边的框可以放某一个（或所有）的数据库的表。  
+~~左边大框可以粘贴爆破出来的数据库，右边的框可以放某一个（或所有）的数据库的表。~~
 大致过程：
 
     爆出库名——>在"选择数据库"的框里面粘贴上你选中的库名，勾选"获取表名"——>爆破出表;  
@@ -26,7 +26,9 @@ SQLMap命令生成器（简单版）。
 
 # 致谢：
 - **kimi**
+- **Deepseek**
 - **[SQLmap的使用]https://blog.csdn.net/weixin_52180702/article/details/125506890**
+
 
 # License
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). You are free to use, modify, and distribute this code, but you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use this code for commercial purposes. If you remix, transform, or build upon this material, you must distribute your contributions under the same license as the original.
