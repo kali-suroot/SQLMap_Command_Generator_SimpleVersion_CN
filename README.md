@@ -57,6 +57,7 @@ python sqlmap.py -u "http://127.0.0.1:8002/Less-1/?id=1" --batch --dbs -D securi
 # 致谢：
 - **kimi**
 - **Deepseek**
+- **QQ好友 @feng-none**
 - **[SQLmap的使用](https://blog.csdn.net/weixin_52180702/article/details/125506890)**
 
 
